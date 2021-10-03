@@ -1,12 +1,1 @@
-console.log('Ok');
-
-/**
- * Mostrar en consola la palabra 'Hola'.
- */
-function mostrarHola() {
-    console.log('Hola');
-}
-
-for(let i=0; i<5; i++) {
-    mostrarHola
-}
+function mostrarHola(){console.log("Hola")}console.log("Ok");for(let o=0;o<5;o++);
